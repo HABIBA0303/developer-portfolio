@@ -5,12 +5,13 @@ body {
 }
 
 h1 {
-    font-size: 55px;
+    font-size: 60px;
     color: lightslategray;
 }
 
 h2 {
     font-size: 30px;
+    color: brown;
 }
 
 .meroon-color {
@@ -19,17 +20,18 @@ h2 {
 
 section {
     display: flex;
+    margin: 50px;
 }
 
 .half-width {
-    color: rgba(255, 0, 0, 0.475);
-    width: 600px;
-    padding-left: 7%;
+    color: rgba(61, 10, 10, 0.637);
+    width: 500px;
+    padding-left: 5%;
     padding-top: 50px;
 }
 
 .half-width image {
-    padding-top: 80px;
+    padding-top: 10px;
     width: 400px;
 }
 
@@ -41,5 +43,9 @@ section {
 }
 
 .top-banner {
+    background-image: url(images/imagel.png);
+}
+
+.dream-big {
     background-image: url(images/imagel.png);
 }
