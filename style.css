@@ -1,0 +1,45 @@
+body {
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Titan One', cursive;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 55px;
+    color: lightslategray;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.meroon-color {
+    color: rgb(193, 71, 71)
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    color: rgba(255, 0, 0, 0.475);
+    width: 600px;
+    padding-left: 7%;
+    padding-top: 50px;
+}
+
+.half-width image {
+    padding-top: 60px;
+    width: 500px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgba(173, 117, 117, 0.721);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/imagel.png);
+}
