@@ -49,14 +49,16 @@ h4 {
 
 .top-banner {
     background-image: url(images/imagel.png);
+    background-position: left;
+    background-repeat: no-repeat;
 }
 
 .dream-big {
     background-image: url(images/imagel.png);
-    padding-right: 20px;
-    padding-bottom: 10px;
-    padding-top: 60px;
+    background-position: left;
+    background-repeat: no-repeat;
 }
+
 
 .experience-area {
     background-image: url(images/exp-bg.png);
